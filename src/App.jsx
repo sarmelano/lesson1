@@ -1,10 +1,9 @@
-import './App.css';
-import Hello from './components/Hello';
+import Counter from './components/Counter';
 
 function App() {
   return (
-    <div>
-    <Hello/>
+    <div> 
+   <Counter/>
     </div>
   );
 }
